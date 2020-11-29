@@ -13,12 +13,12 @@ namespace dotnet_core_google_drive_api
         public static int GetMenu()// ilk açılışta ki bilgilendirme-yönlendirme kısmı
         {
             Console.Clear();
-            Console.WriteLine("----------------------------------------");
+            Console.WriteLine("--------------------------------------");
             Console.WriteLine("Dosya İşlemleri.");
             Console.WriteLine("0. Login. ");
             Console.WriteLine("1. Dosya Yükle. ");
             Console.WriteLine("2. Çıkış. ");
-            Console.WriteLine("----------------------------------------");
+            Console.WriteLine("--------------------------------------");
             Char vKey = new char();
             int inputKey = 0;
             bool isValidKey = false;
