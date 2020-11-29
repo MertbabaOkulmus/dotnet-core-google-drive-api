@@ -1,0 +1,40 @@
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\dotnet core google drive api.exe
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.csprojAssemblyReference.cache
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.AssemblyInfoInputs.cache
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.AssemblyInfo.cs
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\dotnet core google drive api.deps.json
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\dotnet core google drive api.runtimeconfig.json
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\dotnet core google drive api.runtimeconfig.dev.json
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\dotnet core google drive api.dll
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\dotnet core google drive api.pdb
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\Google.Apis.Drive.v3.dll
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.csproj.CoreCompileInputs.cache
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.csproj.CopyComplete
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.dll
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.pdb
+C:\Users\mertb\source\repos\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.genruntimeconfig.cache
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.csprojAssemblyReference.cache
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.AssemblyInfoInputs.cache
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.AssemblyInfo.cs
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.csproj.CoreCompileInputs.cache
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.dll
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.pdb
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\dotnet core google drive api.exe
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\dotnet core google drive api.deps.json
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\dotnet core google drive api.runtimeconfig.json
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\dotnet core google drive api.runtimeconfig.dev.json
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\dotnet core google drive api.dll
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\dotnet core google drive api.pdb
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\Google.Apis.Drive.v3.dll
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.csproj.CopyComplete
+C:\Users\mertb\OneDrive\Masaüstü\github\dotnet core google drive api\dotnet core google drive api\obj\Debug\netcoreapp3.1\dotnet core google drive api.genruntimeconfig.cache

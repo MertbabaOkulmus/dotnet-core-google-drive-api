@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "NBDKnLJPsU4li04xZ1uGPZDUnNHL52Ju5fhdWE1PmAztFXHxHYx5V/f+2KFHyqmwIYu70HqxjpHlaKIqq7PcpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mertb\\OneDrive\\Masaüstü\\github\\dotnet core google drive api\\dotnet core google drive api\\dotnet core google drive api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mertb\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\mertb\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\mertb\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\mertb\\.nuget\\packages\\google.apis.drive.v3\\1.49.0.2145\\google.apis.drive.v3.1.49.0.2145.nupkg.sha512",
+    "C:\\Users\\mertb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

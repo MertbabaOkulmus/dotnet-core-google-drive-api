@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet core google drive api", "dotnet core google drive api\dotnet core google drive api.csproj", "{424F1539-2E8E-46A4-B17B-7BA2974893CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{424F1539-2E8E-46A4-B17B-7BA2974893CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424F1539-2E8E-46A4-B17B-7BA2974893CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424F1539-2E8E-46A4-B17B-7BA2974893CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424F1539-2E8E-46A4-B17B-7BA2974893CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BBB2E72-9014-4006-943B-3C46F53A0F6B}
+	EndGlobalSection
+EndGlobal
